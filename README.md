@@ -1,14 +1,17 @@
-Read Me - Ishan Smith
+# Read Me - Vision System - Ishan Smith
 
-Opencv version 3.2.0
+This uses Opencv version 3.2.0 which comes with ROS.  
 
-To create a Make file and CMake file for C++ use the following link: https://docs.opencv.org/master/db/df5/tutorial_linux_gcc_cmake.html
+You do not need to make a CMake file however if you wish to then see the link below. 
+    - To create a Make file and CMake file for C++ use the following link: https://docs.opencv.org/master/db/df5/tutorial_linux_gcc_cmake.html
 
-Only change that needs to be make is <yourfile> to where your folder of the C++ file is.
+### To Edit
+If you wish to edit the .cpp file then you will need to edit CMakeLists.txt with <yourfilename>.cpp.
 
-Then when running ./OpenCVfile
+Then type `make` in the terminal and may need to change paths in CMakeLists.txt or other files (terminal may prompt you).
 
-Edit CMakeLists.txt with project name, executable name (to create) and <yourfile>.cpp.
+### To Run
+To run the vision code open terminal in OpenCV folder and type `./OpenCVfile`
 
 Include correct libraries in you cpp.
 

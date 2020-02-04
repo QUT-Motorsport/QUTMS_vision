@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ishan/Documents/OpenCV/ColorThresholdVideoV3.cpp
+opencv2/imgproc.hpp
+/home/ishan/Documents/OpenCV/opencv2/imgproc.hpp
+opencv2/highgui.hpp
+/home/ishan/Documents/OpenCV/opencv2/highgui.hpp
+iostream
+-
+stdlib.h
+-
+unistd.h
+-
+
