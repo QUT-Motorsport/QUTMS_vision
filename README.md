@@ -15,3 +15,5 @@ To run the vision code open terminal in OpenCV folder and type `./OpenCVfile`
 
 Include correct libraries in you cpp.
 
+Check education_files folder for educational material to help with understanding and learning about OpenCV. Note these files are not required for the vision system to run. If you wish to run files in this folder you will need to move them out from education_files folder to OpenCV folder.
+
