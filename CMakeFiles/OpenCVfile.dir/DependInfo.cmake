@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ishan/Documents/OpenCV/ColorThresholdVideoV3.cpp" "/home/ishan/Documents/OpenCV/CMakeFiles/OpenCVfile.dir/ColorThresholdVideoV3.cpp.o"
+  "/home/ishan/Documents/OpenCV/vision_system_v1.cpp" "/home/ishan/Documents/OpenCV/CMakeFiles/OpenCVfile.dir/vision_system_v1.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

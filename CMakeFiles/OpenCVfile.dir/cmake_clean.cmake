@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/OpenCVfile.dir/ColorThresholdVideoV3.cpp.o"
+  "CMakeFiles/OpenCVfile.dir/vision_system_v1.cpp.o"
   "OpenCVfile.pdb"
   "OpenCVfile"
 )

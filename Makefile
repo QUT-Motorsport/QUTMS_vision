@@ -123,32 +123,32 @@ OpenCVfile/fast:
 	$(MAKE) -f CMakeFiles/OpenCVfile.dir/build.make CMakeFiles/OpenCVfile.dir/build
 .PHONY : OpenCVfile/fast
 
-ColorThresholdVideoV3.o: ColorThresholdVideoV3.cpp.o
+vision_system_v1.o: vision_system_v1.cpp.o
 
-.PHONY : ColorThresholdVideoV3.o
+.PHONY : vision_system_v1.o
 
 # target to build an object file
-ColorThresholdVideoV3.cpp.o:
-	$(MAKE) -f CMakeFiles/OpenCVfile.dir/build.make CMakeFiles/OpenCVfile.dir/ColorThresholdVideoV3.cpp.o
-.PHONY : ColorThresholdVideoV3.cpp.o
+vision_system_v1.cpp.o:
+	$(MAKE) -f CMakeFiles/OpenCVfile.dir/build.make CMakeFiles/OpenCVfile.dir/vision_system_v1.cpp.o
+.PHONY : vision_system_v1.cpp.o
 
-ColorThresholdVideoV3.i: ColorThresholdVideoV3.cpp.i
+vision_system_v1.i: vision_system_v1.cpp.i
 
-.PHONY : ColorThresholdVideoV3.i
+.PHONY : vision_system_v1.i
 
 # target to preprocess a source file
-ColorThresholdVideoV3.cpp.i:
-	$(MAKE) -f CMakeFiles/OpenCVfile.dir/build.make CMakeFiles/OpenCVfile.dir/ColorThresholdVideoV3.cpp.i
-.PHONY : ColorThresholdVideoV3.cpp.i
+vision_system_v1.cpp.i:
+	$(MAKE) -f CMakeFiles/OpenCVfile.dir/build.make CMakeFiles/OpenCVfile.dir/vision_system_v1.cpp.i
+.PHONY : vision_system_v1.cpp.i
 
-ColorThresholdVideoV3.s: ColorThresholdVideoV3.cpp.s
+vision_system_v1.s: vision_system_v1.cpp.s
 
-.PHONY : ColorThresholdVideoV3.s
+.PHONY : vision_system_v1.s
 
 # target to generate assembly for a file
-ColorThresholdVideoV3.cpp.s:
-	$(MAKE) -f CMakeFiles/OpenCVfile.dir/build.make CMakeFiles/OpenCVfile.dir/ColorThresholdVideoV3.cpp.s
-.PHONY : ColorThresholdVideoV3.cpp.s
+vision_system_v1.cpp.s:
+	$(MAKE) -f CMakeFiles/OpenCVfile.dir/build.make CMakeFiles/OpenCVfile.dir/vision_system_v1.cpp.s
+.PHONY : vision_system_v1.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... OpenCVfile"
 	@echo "... edit_cache"
-	@echo "... ColorThresholdVideoV3.o"
-	@echo "... ColorThresholdVideoV3.i"
-	@echo "... ColorThresholdVideoV3.s"
+	@echo "... vision_system_v1.o"
+	@echo "... vision_system_v1.i"
+	@echo "... vision_system_v1.s"
 .PHONY : help
 
 
